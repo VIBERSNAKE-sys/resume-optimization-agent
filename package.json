@@ -1,0 +1,12 @@
+{
+  "name": "resume-agent",
+  "version": "0.1.0",
+  "description": "Autonomous multi-agent resume optimization system built on Claude Code Agent SDK",
+  "type": "module",
+  "scripts": {
+    "resume": "node src/orchestrator.js"
+  },
+  "dependencies": {
+    "python-docx": "*"
+  }
+}

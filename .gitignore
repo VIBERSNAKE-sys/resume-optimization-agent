@@ -1,0 +1,37 @@
+# Runtime state — contains personal resume content and run data
+workspace/
+
+# Personal resume template
+templates/
+
+# Personal Q&A Evidence Archive (populate from your own evidence)
+archive/raw/qa_archive_condensed.txt
+
+# Source document folders (personal .docx files)
+Q&A Archive/
+Modules/
+
+# Logs with run data
+logs/performance_log.json
+
+# Tests with historical run outputs (may contain personal data)
+tests/historical/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*

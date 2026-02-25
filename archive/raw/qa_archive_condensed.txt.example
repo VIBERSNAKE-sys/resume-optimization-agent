@@ -1,0 +1,35 @@
+# Q&A EVIDENCE ARCHIVE — Template
+# Copy this file to qa_archive_condensed.txt and populate with your own evidence.
+# This archive is the source of truth for all resume claims.
+# The pipeline's Archive Lookup Agent fuzzy-matches Gate 0 questions against this file.
+
+## METRICS (universal facts — numbers, dates, counts)
+Q: How many years of program management experience do you have?
+A: [Your answer — e.g., "8 years total across X, Y, Z roles"]
+
+Q: What was your team size at [Role]?
+A: [Your answer — e.g., "Led a team of 6 across 3 departments"]
+
+## FACTUAL (tools, methods, frameworks, accomplishments)
+Q: What project management tools have you used?
+A: [Your answer — e.g., "Jira, Asana, Smartsheet, Confluence"]
+
+Q: Have you used any formal change management frameworks (ADKAR, LEAN, Prosci)?
+A: [Your answer]
+
+Q: What AI/LLM tools have you worked with?
+A: [Your answer]
+
+## NARRATIVE STORIES (origin stories, recognition events, leadership moments)
+Q: Tell me about a time you had to influence without authority.
+A: [Your answer — compressed narrative format]
+
+Q: What was the most complex cross-functional initiative you managed?
+A: [Your answer]
+
+## CONFIRMED GAPS (things you have NOT done — prevents overclaiming)
+Q: Have you managed a P&L or budget ownership?
+A: [Your answer — be honest, e.g., "No direct P&L ownership"]
+
+Q: Do you have experience with [specific certification/framework]?
+A: [Your answer]
